@@ -1,0 +1,17 @@
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\bin\Debug\net6.0-windows\WinForms_DateTimePicker.exe
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\bin\Debug\net6.0-windows\WinForms_DateTimePicker.deps.json
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\bin\Debug\net6.0-windows\WinForms_DateTimePicker.runtimeconfig.json
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\bin\Debug\net6.0-windows\WinForms_DateTimePicker.dll
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\bin\Debug\net6.0-windows\WinForms_DateTimePicker.pdb
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.Form1.resources
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.AssemblyInfo.cs
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.dll
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\refint\WinForms_DateTimePicker.dll
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.pdb
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\WinForms_DateTimePicker.genruntimeconfig.cache
+C:\Users\devel\Desktop\WinForms_DateTimePicker\WinForms_DateTimePicker\obj\Debug\net6.0-windows\ref\WinForms_DateTimePicker.dll
